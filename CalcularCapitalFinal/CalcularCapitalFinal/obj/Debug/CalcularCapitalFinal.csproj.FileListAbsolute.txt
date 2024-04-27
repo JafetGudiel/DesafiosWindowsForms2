@@ -1,0 +1,10 @@
+C:\Users\TF049\Documents\clases cursos C#\CalcularCapitalFinal\CalcularCapitalFinal\bin\Debug\CalcularCapitalFinal.exe.config
+C:\Users\TF049\Documents\clases cursos C#\CalcularCapitalFinal\CalcularCapitalFinal\bin\Debug\CalcularCapitalFinal.exe
+C:\Users\TF049\Documents\clases cursos C#\CalcularCapitalFinal\CalcularCapitalFinal\bin\Debug\CalcularCapitalFinal.pdb
+C:\Users\TF049\Documents\clases cursos C#\CalcularCapitalFinal\CalcularCapitalFinal\obj\Debug\CalcularCapitalFinal.csproj.AssemblyReference.cache
+C:\Users\TF049\Documents\clases cursos C#\CalcularCapitalFinal\CalcularCapitalFinal\obj\Debug\CalcularCapitalFinal.Form1.resources
+C:\Users\TF049\Documents\clases cursos C#\CalcularCapitalFinal\CalcularCapitalFinal\obj\Debug\CalcularCapitalFinal.Properties.Resources.resources
+C:\Users\TF049\Documents\clases cursos C#\CalcularCapitalFinal\CalcularCapitalFinal\obj\Debug\CalcularCapitalFinal.csproj.GenerateResource.cache
+C:\Users\TF049\Documents\clases cursos C#\CalcularCapitalFinal\CalcularCapitalFinal\obj\Debug\CalcularCapitalFinal.csproj.CoreCompileInputs.cache
+C:\Users\TF049\Documents\clases cursos C#\CalcularCapitalFinal\CalcularCapitalFinal\obj\Debug\CalcularCapitalFinal.exe
+C:\Users\TF049\Documents\clases cursos C#\CalcularCapitalFinal\CalcularCapitalFinal\obj\Debug\CalcularCapitalFinal.pdb
